@@ -1,2 +1,2 @@
 # projetoInterfaceAtividade2
-aulas e atividades da materia de Projeto interface da faculdade
+atividade 2 da materia de Projeto interface da faculdade
